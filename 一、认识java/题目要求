@@ -1,0 +1,6 @@
+  
+1．设置 JDK 开发环境 从Oracle网站上下载最新的JDK版本（11.0.2），将JDK开发环境安装好。 配置path等环境变量。 
+
+2．熟悉 JDK 命令在Windows命令行方式中执行java、javac、javadoc、jar、javaw等可执行文件，查看这些主要文件的使用（帮助）说明。 
+
+3．了解 Java 程序在 JDK 开发环境中的开发过程
